@@ -3,6 +3,18 @@ body {
     align-items: center;
     display: flex;
     flex-direction: column;
+    background-color: hsl(264 47.6% 64.7%);
+}
+
+/* links section */
+a {
+    color: hsl(230 80.7% 41.2%);
+} a:hover {
+    color: hsl(230 80.7% 59.6%);
+} a:visited {
+    color: hsl(263 80.7% 37.6%);
+} a:active {
+    color: white;
 }
 
 header {
@@ -15,9 +27,23 @@ header p, header h1 {
 }
 
 .links {
-   
+    display: flex;
+   flex-direction: column;
+}.links a {
+    padding: 7px;
+    border: 2px inset rgba(0, 0, 0, 0.54);
+}
+
+.chef {
+    margin-top: 20px;
+    height: 400px;
+    width: 600px;
 }
 
 footer {
-    padding: 1rem;
+    width: 98vw;
+    height: 50px;
+    position: relative;
+    top: 14.5vh;
+    border-style: solid;
 }
