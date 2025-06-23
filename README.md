@@ -1,0 +1,1 @@
+here is a practice website I am creating for The Odin Project, I plan on putting in some effort into this website and will probably host it along with my first website (shit, I know. I wish I would have found TOP sooner XD) https://goon.bio/
