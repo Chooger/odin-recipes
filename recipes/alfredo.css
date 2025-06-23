@@ -6,7 +6,10 @@ body {
     background-color: hsl(264 47.6% 64.7%);
 }
 
-
+#home {
+    align-self: flex-start;
+    margin: 5px;
+}
 
 main {
     display: flex;
@@ -18,7 +21,8 @@ main {
     margin: 5px;
 } .ingredients ol {
     list-style-type: lower-roman;
-}
+    margin: 0, 50px;
+} #extra {margin-top: 20px;}
 
 .directions {
     margin-top: 50px;
