@@ -43,7 +43,7 @@ header p, header h1 {
 footer {
     width: 98vw;
     height: 50px;
-    top: 14.5vh;
+    top: 8vh;
     position: relative;
     border-style: solid;
 }
